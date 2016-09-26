@@ -13,7 +13,7 @@ namespace lab5
         {
             string answerRoll;
 
-            Console.WriteLine("Welcome  to Grand Circus Casino! Roll the dice? (y/n):");
+            Console.WriteLine("Welcome  to Grand Circus Casino! Roll the dice?? (y/n):");
             answerRoll = Console.ReadLine();
 
             int rollNumber = 1;
